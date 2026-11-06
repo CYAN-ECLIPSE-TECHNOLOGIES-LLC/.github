@@ -29,4 +29,4 @@
 
 ## Working with us
 
-Cyan Eclipse Technologies LLC is a registered, certified veteran-owned small business pursuing federal, state, and commercial work in custom software development, independent testing/QA, and AI-agent infrastructure. Capability inquiries: **steven@cetech.ai**
+Cyan Eclipse Technologies LLC is a registered, certified veteran-owned small business pursuing federal, state, and commercial work in custom software development, independent testing/QA, and AI-agent infrastructure. Our team members bring substantial federal contracting experience gained working for established federal prime contractors as their employees. Capability inquiries: **steven@cetech.ai**
