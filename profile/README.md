@@ -6,7 +6,7 @@
 
 **Veteran-owned software company.** Custom software engineering, software testing & QA, and AI-agent infrastructure — built by a senior engineering team and shipped as products, not just projects.
 
-- 🏢 Founded 2024 · Tallahassee, Florida
+- 🏢 Founded 2024
 - 🎖️ SBA VetCert-certified **Veteran-Owned Small Business (VOSB)**
 - 🌐 [cetech.ai](https://cetech.ai) · ✉️ steven@cetech.ai
 
